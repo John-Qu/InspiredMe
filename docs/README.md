@@ -4,7 +4,7 @@
 
 ### Contents
 
-Specific boks, articles on the internet, and videos that I meet, read and get inspired.
+Specific books, articles on the internet, and videos that I meet, read and get inspired.
 
 Here are no "resources" of books and articles. I will give links to them.
 
