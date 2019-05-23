@@ -15,4 +15,8 @@
     - [Principles](principle.md "List of all kinds of important and simple things")
     - [Disciplines](discipline.md "List of self-disciplines and actions")
     - [FAQs](faq.md "List of frequent asked questions")
-    - [引用](reference.md "Quotes about Readings")
+    - [Quotes](reference.md "Quotes about Readings")
+    
+<hr></hr>
+    <span> <a href="https://john-qu.github.io/">  John Qu</a> &copy; 2019. </span>
+    <span> Published with <a href="https://docsify.js.org/#/" target="_blank">docsify</a>.</span>

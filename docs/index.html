@@ -19,20 +19,6 @@
       name: '',
       repo: '',
       loadSidebar: true,
-      plugins: [
-        function(hook) {
-          var footer = [
-            '<hr/>',
-            '<footer>',
-            '<span><a href="https://john-qu.github.io/">John Qu</a> &copy;2019. </span>',
-            '<span>Published with <a href="https://docsify.js.org/#/" target="_blank">docsify</a>.</span>',
-            '</footer>'
-          ].join('');
-          hook.afterEach(function(html) {
-            return html + footer;
-          });
-        }
-      ],
       tabs: {
         persist    : true,      // default
         sync       : true,      // default
