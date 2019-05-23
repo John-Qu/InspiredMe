@@ -15,3 +15,4 @@
     - [Principles](principle.md "List of all kinds of important and simple things")
     - [Disciplines](discipline.md "List of self-disciplines and actions")
     - [FAQs](faq.md "List of frequent asked questions")
+    - [引用](reference.md "Quotes about Readings")

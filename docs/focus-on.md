@@ -1,4 +1,13 @@
-# My Friends in Front of Me
+<!-- tabs:start -->
 
-- [Stick](stick-01.md)
-- 
+#### ** English **
+
+# Focusing On These
+
+#### ** 中文 **
+
+# 案头之书
+
+<!-- tabs:end -->
+
+- [如何想到以做到，肖恩·扬著，得到电子书](./_posts/stick-with-it-01.md "Stick with It")
