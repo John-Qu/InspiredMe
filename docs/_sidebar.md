@@ -16,6 +16,9 @@
     - [Disciplines](discipline.md "List of self-disciplines and actions")
     - [FAQs](faq.md "List of frequent asked questions")
     - [Quotes](reference.md "Quotes about Readings")
+
+- Lists
+    - [Got it](./_posts/2019-06-14-10-51-32-got-it-purchase-list.md "What I bought on 'Got it' App") 
     
 <hr></hr>
     <span> <a href="https://john-qu.github.io/">  John Qu</a> &copy; 2019. </span>
